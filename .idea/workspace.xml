@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectId" id="1SwvPXFNW2WR9rVmh6Jxl5JO3lP" />
+  <component name="RunManager">
+    <configuration name="UseVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UseVariable" />
+      <module name="UseVariable" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UseVariable" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
